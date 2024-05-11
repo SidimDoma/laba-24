@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1715368454 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\add_and_delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1715368586 c:\users\ejork\onedrive\Рабочий стол\lab 24\base.h
+
+1715369079 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<graphics.h>
+	"base.h"
+
+1715368586 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<graphics.h>
+	"base.h"
+	"add_and_del.h"
+	"graphic.h"
+	"save_and_read.h"
+	"sort.h"
+
+1715368454 c:\users\ejork\onedrive\Рабочий стол\lab 24\add_and_del.h
+
+1715368454 c:\users\ejork\onedrive\Рабочий стол\lab 24\graphic.h
+
+1715368454 c:\users\ejork\onedrive\Рабочий стол\lab 24\save_and_read.h
+
+1715368454 c:\users\ejork\onedrive\Рабочий стол\lab 24\sort.h
+
+1715368454 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\save_and_read.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1715368454 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1715368454 source:c:\users\ejork\onedrive\Рабочий стол\lab 24\table.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
